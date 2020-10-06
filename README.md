@@ -1,4 +1,5 @@
 <h1 align="center">
+    Todo App: API com ASP.NET Core, CQRS e EF Core
     <img alt="csharp" title="Todo App: API com ASP.NET Core, CQRS e EF Core" src=".github/csharp.png" />
 </h1>
 
