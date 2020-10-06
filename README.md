@@ -11,9 +11,12 @@
 
 ## 💻 Tecnologias
 
-Esse código foi desenvolvido com as seguintes tecnologias:
+Esse código foi desenvolvido quando estava fazendo o curso 7196 do 
+<a href= "https://github.com/balta-io" > Balta.IO </a>
 
--[C# .netcore 2.2] 
+-[C# .netcore 3.1.402] 
+-[EF Core] 
+-[Asp.Net Core] 
 
 
 ## ✍ Descrição
